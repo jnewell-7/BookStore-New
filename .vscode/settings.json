@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/1bed3d02-7e90-44a1-95ff-4ed04d54e7ea/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Bookstore-backend",
+  "appService.deploySubpath": "backend/BookStore.API/publish"
+}
